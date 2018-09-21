@@ -9,7 +9,7 @@ Made By :
 Faraz Kabir Khan 
 Emdadul Haque
 
-This Softwer Have Some dependency
+This Software Have Some dependency
 
 1. Extra .jar file.
 2. need some .xml file.
